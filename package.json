@@ -17,6 +17,7 @@
     "gulp-less": "^5.0.0"
   },
   "dependencies": {
+    "appwrite": "^10.1.0",
     "chart.js": "^3.8.2",
     "markdown-it": "^13.0.1",
     "pell": "^1.0.6",
